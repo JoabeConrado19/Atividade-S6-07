@@ -1,0 +1,6 @@
+resultado,"multiplicador, i",i>1,resultado*= i,i--,i>1,resultado*= i,i--,i>1,resultado*=i,i--,i>1,resultado*=i,i--,i>1,resultado*=i,i--,i>1,resultado*=i
+2,1,true,2,0,false,--,,,,,,,,,,,,
+3,2,true,6,1,true,6,0,false,--,,,,,,,,,
+4,3,true,12,2,true,24,1,true,24,0,false,---,,,,,,
+5,4,true,20,3,true,60,2,true,120,1,true,120,0,false,--,,,
+6,5,true,30,4,true,120,3,true,360,2,true,720,1,true,720,0,false,---
